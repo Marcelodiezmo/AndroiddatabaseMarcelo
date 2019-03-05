@@ -24,6 +24,7 @@ public class MainActivity extends Activity {
         et4 = (EditText) findViewById(R.id.editText4);
     }
 
+    
     /*
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
